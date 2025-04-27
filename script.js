@@ -2,7 +2,7 @@
 
 // Array com dados dos vídeos, incluindo o link do vídeo e o link para download
 const videos = [
-    { title: "v3.0", link: "https://www.youtube.com/watch?v=1CuDRCr-NS8", description: "v3.0 tema hacker independente de conexao a internet!", downloadLink: "https://www.exemplo.com/download1" },
+    { title: "v3.0", link: "https://www.youtube.com/watch?v=1CuDRCr-NS8", description: "v3.0 tema hacker independente de conexao a internet!", downloadLink: "https://drive.google.com/file/d/1L6Etl0LGpHKQQgAOBvEaJ0TvZopQyzBR/view" },
     
     // Adicione mais vídeos conforme necessário
 ];
